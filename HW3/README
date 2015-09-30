@@ -1,1 +1,10 @@
 Homework 3 - assignments 1 and 2 are in the same iPython notebook
+
+For assignment 1:
+There are six distributions - chi-squared, normal, poisson, binomal, lognormal, and pareto
+For each distribution there are three plots - one sample, 100 samples (size x mean), and 100 sample mean histogram
+The final plot is a histogram of all 600 sample means plotted together
+
+For assignment 2:
+The z-score tests the null hypothesis that released prisioners that participated in the employment program have the same employment rates as the control group for unsubsidized jobs.
+The chi-squared tests if there is a difference in the employment rates of the groups for six consecutive quarters.
