@@ -1,0 +1,42 @@
+very good reviews, thought out, insightful and helpful 10/10
+
+NOTES ON PLOT 
+============
+[!alt text](mf3358.png)
+
+the station id is a categorical value, not a continuous one, so it should not be plotted as a position (and the idea of doing a regression on it is odd and really meaningless)
+
+the regression lines are very thick, which does not add to readability. 
+
+in color-blind simulations the colors become indistinguishable, particularly the green
+
+NOTES ON THE PLOTS YOU REVIEWED
+===============================
+
+
+legend obfuscated by the plot
+
+the smoothing choice may show insignificant structure
+
+the plot is simple and generally clear enough
+
+Elixeus
+=======
+
+the plot is clear, the label visible. 
+
+the default choice for python large number visualization is questionable and could be changed (the 1e7 at the top is hard to notice
+
+contrast is lost by color blind people
+
+the legend is unclear. "10t" is not explained. the default 3 datapoints for scatter plot should be changes as it is unnecessarily redundant
+
+cindiliu686
+===========
+the colors are not explained nor is the transparency
+
+for the large numbers on x and y axis a more concise notation should be chosen
+
+the 3d dimension is unnecessary and possibly redundant with the color. 
+
+the 3d dimension makes the readability of the Square footage and of the # of units hard to read away from the edges of the respective axis ranges
